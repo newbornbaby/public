@@ -1,4 +1,5 @@
 # public
+please,read me first.
 test modify
 first,clone;then,modify to commit(push)
 public code for share
@@ -10,4 +11,3 @@ modify README.md
 git add README.md
 git commit -m "testModify"
 git push origin master
-
