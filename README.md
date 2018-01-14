@@ -1,5 +1,5 @@
 # public
-please,read me first.
+please,read me first!
 test modify
 first,clone;then,modify to commit(push)
 public code for share
